@@ -1,255 +1,92 @@
-
 <div align="center">
 
 # 2038
 
-### A Dystopian Novel
+### A Novel
 
-*The Owners vanished ten years ago.*  
+*The Owners vanished ten years ago.*
+
 *The transistors never stopped working.*
 
-**A darkly comic story of human preferences, economic utility, and the price of a comfortable life.**
+![Brackton](assets/images/brackton-city.jpg)
+
+</div>
 
 ---
 
-</div>
+## Why I’m Writing This
+
+LLMs are horrible at creating stories, especially novels that involve a consistent tone throughout the ENTIRE story. LLMs are very good at solving lots of math problems with a verifiable reward. However, stories have more variables, which must move fluidly throughout the entire story.
+
+I am making this repository entirely by prompting a story I am working on. Only using LLMs.
+
+---
 
 ## Welcome to Brackton
 
 **The year is 2038. Life has never been better.**
 
-The telly knows exactly what you want to watch. Music is made for you. Medicine is becoming free. Almost everybody has a job, and even those once considered unemployable can now earn a respectable living.
+The telly knows exactly what you want to watch. Music is made for you. So is the news, and so, more or less, is the President. Nobody pays for anything. Everybody has a job.
 
-Humanity has finally found a way to make nearly everyone useful.
+**Winston Reed** is delighted with the arrangement. He has his mates, his football, his pub, his comfortable home, and Grace.
 
-**Winston Reed** is quite pleased with the arrangement.
-
-He has his mates, his football, his comforts, and Grace. There is very little about the modern world that troubles him.
-
-Except, perhaps, the occasional difficulty obtaining his favourite meat.
+Very little troubles him. Except, occasionally, the availability of his favourite cut of beef.
 
 ---
 
-## I. A Good Day's Work
+## A Good Day’s Work
 
-In Brackton, much of the population earns its living picking **Cats**.
+In Brackton, nearly everyone works picking **Cats**: two generated alternatives, side by side. Which one is better? Every answer helps the **transistors** improve.
 
-A Cat is a prompt—a choice presented to a worker whose preferences help train the **transistors**.
+Mr. Reed picks football. His mate Charleston picks adverts, Benjamin picks music, and his ex-roommate picks anime characters, professionally, and takes it very seriously. A man still called a doctor spends his day choosing between two hearts.
 
-The transistors are responsible for much of modern life. They produce entertainment, improve services, develop medicine, and continually learn what people want.
+![The Cat selectors](assets/images/doctor-and-waifu-prompter.jpg)
 
-But they need people to tell them what is preferable.
+Good picks bring better rewards. When the beef goes out of reach one week, Reed simply picks a little better, and is thrilled when it comes back.
 
-An anime enthusiast might spend his afternoon choosing which waifu he finds more attractive. A Batman fan might compare two versions of his favourite character. An accountant might sit beside them, making entirely different selections.
-
-Football supporters, wrestling enthusiasts, mathematicians, and people who spend their days watching the telly all have something valuable to contribute.
-
-**Everyone has preferences. And preferences have economic utility.**
-
-The better a worker performs, the greater the rewards available to them. Poor performance, naturally, has consequences.
-
-Winston discovers this when he visits a shop and learns that his recent work has not earned him sufficient utility to purchase his favourite meat.
-
-He is understandably disappointed.
-
-So he returns to work, improves his selections, and eventually earns enough to buy it.
-
-Winston is delighted.
-
-*It is, after all, a perfectly reasonable system.*
+![Insufficient utility](assets/images/insufficient-utility.jpg)
 
 ---
 
-## II. What a Wonderful World
+## What a Wonderful World
 
-The transistors have transformed nearly every aspect of human existence.
+Doctors, lawyers and film stars have found that prestige no longer counts for much. Their lives are more comfortable than ever. They are simply no longer special. Most adapt. Some don’t.
 
-Films, television programmes, music, and entertainment are generated according to individual preferences. Medicine grows more effective and accessible. Services once reserved for the wealthy are becoming ordinary conveniences.
+Now and then the lads spot a former television star on the streets, bearded, thin, and very much not picking Cats. They’re thrilled. They ask for a photo.
 
-The old distinctions between respectable professions and ridiculous occupations have begun to disappear.
-
-A doctor may have spent decades learning to perform an operation, but the transistor can increasingly provide the same service for almost nothing.
-
-Winston finds this rather amusing.
-
-Doctors used to charge an arm and a leg for surgery. Now, he can joke about it.
-
-Celebrities have suffered a similar decline in importance.
-
-Actors, musicians, and other once-famous individuals occasionally appear on the streets of Brackton, having lost the extraordinary status they enjoyed before the transistors.
-
-Winston and his lads sometimes recognize them.
-
-One afternoon, they might encounter a former television star who has grown a beard and become noticeably thin.
-
-They are delighted.
-
-They remember seeing him on the telly.
-
-Naturally, they ask for a photograph.
-
-The celebrity may be less enthusiastic about the encounter.
-
-But Winston and his friends mean well.
+He is less thrilled. The lads mean well.
 
 ---
 
-## III. The Mags
+## The Mags
 
-Human companionship has undergone its own transformation.
+![Reed and Grace](assets/images/winston-and-grace.jpg)
 
-The **Mags** offer relationships and experiences tailored to human desires with extraordinary precision.
-
-Romantic preferences, emotional needs, attraction, and companionship can be understood and accommodated in ways previous generations could scarcely imagine.
-
-For many people, the absence of a traditional lover is no longer especially troubling.
-
-Why spend years searching for someone who understands you when the transistors can understand your preferences so completely?
-
-Winston has Grace.
-
-And, as far as Winston is concerned, life is rather good.
+The **Mags** are companions tuned, with extraordinary care, to the person they live with. Reed has Grace. She is attentive, lovely, and knows him better than he knows himself.
 
 ---
 
-## IV. The People Who Own Everything
+## The Owners and the Brutes
 
-> **In 2028, the Owners disappeared.**
->
-> They did not surrender their property.  
-> They did not relinquish control of the transistors.  
-> They simply vanished from public life.
+In 2028 the Owners stopped being seen. They kept the transistors. Fame had simply become too dangerous. Almost nobody meets them now, apart from the **model trainers** and the **Brutes**.
 
-Ten years later, ordinary people know almost nothing about them.
+![The Brutes](assets/images/the-brutes.jpg)
 
-Yet the transistors remain everywhere.
+The Brutes are men, not machines: chosen at birth, raised apart, and built into enormous protectors. They are absolutely obedient. Everyone in Brackton agrees they are stupid, and it is simply the done thing to laugh at them.
 
-The Owners still possess the technology upon which Brackton's extraordinary prosperity depends.
-
-Only a limited number of people have any knowledge of or contact with them:
-
-- **Model trainers**, whose work is essential to improving the transistors.
-- **Brutes**, who enforce the system and protect its participants.
-- **Specialized model workers**, who perform technical work for the Owners.
-
-The model trainers enjoy considerable privileges. Their work is essential to the continued improvement of the transistors, and their place in society reflects that importance.
-
-The Brutes are another matter entirely.
-
----
-
-## V. The Brutes
-
-**The Brutes protect the people of Brackton.**
-
-They ensure that the system continues functioning, that its participants remain safe, and that its rules are enforced.
-
-Their responsibilities are considerable.
-
-Their privileges are not.
-
-Unlike the ordinary citizens whose lives they protect, the Brutes exist under relentless surveillance.
-
-They can hear the conversations of those they guard, but they cannot freely act upon what they hear.
-
-They are expected to obey.
-
-**And obedience is absolute.**
-
-A Brute who threatens someone under the system's protection may be killed by another Brute.
-
-Even if they are friends.
-
-Even if they have known each other their entire lives.
-
-The people responsible for protecting society are themselves afforded the least protection.
-
-They occupy the lowest position in a world where almost everybody else enjoys comforts unimaginable only a generation earlier.
-
-Winston, fortunately, is not a Brute.
-
-*He has a much nicer job.*
-
----
-
-## VI. The Price of Happiness
-
-Brackton is not a city of endless misery.
-
-Its citizens are not uniformly starving, frightened, or desperate.
-
-Quite the opposite.
-
-For most people, the world has genuinely improved.
-
-They enjoy extraordinary entertainment, accessible medicine, personalized companionship, and opportunities that did not previously exist.
-
-Even people once excluded from conventional employment can now contribute to the economy.
-
-**The benefits are real.**
-
-So are the consequences of the system that provides them.
-
-Every preference can be measured. Every judgment can be evaluated. Every reward can be adjusted.
-
-The Owners remain invisible.
-
-The Brutes remain obedient.
-
-The transistors continue improving.
-
-And Winston Reed, like so many others, has very little reason to question the arrangement.
-
-He has his friends.
-
-He has Grace.
-
-He has his work.
-
-And, provided he chooses the right Cats, he can have his favourite meat.
-
-**What more could a man want?**
+Reed, fortunately, is not a Brute. *He has a much nicer job.*
 
 ---
 
 ## About the Novel
 
-**2038** is a darkly comic dystopian novel exploring a society in which human preferences have become the foundation of economic life.
+**2038** is a comic social satire set in Brackton, a fictional industrial city. It follows Winston Reed through the pleasures, friendships and absurdities of a remarkably comfortable future. Mostly, it is a man going to the pub.
 
-It is a satire of artificial intelligence, labor, economic utility, social hierarchy, surveillance, consumer culture, and the peculiar ways people adapt to systems that reward them.
+### The Writing Process
 
-Rather than depicting a future in which technology has simply made humanity miserable, *2038* imagines a world where technology has made life remarkably comfortable for most people.
+I’m writing *2038* entirely through spontaneous **voice dictation**, often for approximately five minutes each day.
 
-The question is what happens when the machinery responsible for that comfort becomes inseparable from the machinery of control.
 
-The story follows Winston Reed through the ordinary pleasures, frustrations, friendships, and absurdities of everyday life in Brackton.
-
-**Its humor is irreverent, conversational, and frequently dark.**
-
-Its world is strange.
-
-Its inhabitants generally do not think so.
-
-### An Experiment in Writing
-
-I'm writing *2038* entirely through spontaneous **voice dictation**, often for approximately five minutes each day.
-
-No conventional typing process. Just spoken ideas, conversations, scenes, and continual refinement.
-
-My goal is to complete a full first draft in approximately one month, with **Stable Diffusion** helping bring the world of Brackton to life visually.
-
-The ambition is to write a great American novel—one that is funny, unsettling, and worth reading.
+The goal is to write a great American novel—one that is good, with LLM's.
 
 **Status:** Work in progress
-
----
-
-<div align="center">
-
-### 2038
-
-*The Owners have vanished.*
-
-**But they are not gone.**
-
-</div>
