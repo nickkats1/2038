@@ -1,26 +1,40 @@
-2038
 
-The Owners vanished ten years ago. The transistors never stopped working.
+<div align="center">
 
-Welcome to Brackton.
+# 2038
 
-It is 2038, and life has never been better.
+### A Dystopian Novel
+
+*The Owners vanished ten years ago.*  
+*The transistors never stopped working.*
+
+**A darkly comic story of human preferences, economic utility, and the price of a comfortable life.**
+
+---
+
+</div>
+
+## Welcome to Brackton
+
+**The year is 2038. Life has never been better.**
 
 The telly knows exactly what you want to watch. Music is made for you. Medicine is becoming free. Almost everybody has a job, and even those once considered unemployable can now earn a respectable living.
 
 Humanity has finally found a way to make nearly everyone useful.
 
-Winston Reed is quite pleased with the arrangement.
+**Winston Reed** is quite pleased with the arrangement.
 
 He has his mates, his football, his comforts, and Grace. There is very little about the modern world that troubles him.
 
 Except, perhaps, the occasional difficulty obtaining his favourite meat.
 
-A Good Day’s Work
+---
 
-In Brackton, much of the population earns its living picking Cats.
+## I. A Good Day's Work
 
-A Cat is a prompt, a choice presented to a worker whose preferences help train the transistors.
+In Brackton, much of the population earns its living picking **Cats**.
+
+A Cat is a prompt—a choice presented to a worker whose preferences help train the **transistors**.
 
 The transistors are responsible for much of modern life. They produce entertainment, improve services, develop medicine, and continually learn what people want.
 
@@ -30,9 +44,7 @@ An anime enthusiast might spend his afternoon choosing which waifu he finds more
 
 Football supporters, wrestling enthusiasts, mathematicians, and people who spend their days watching the telly all have something valuable to contribute.
 
-Everyone has preferences.
-
-And preferences have economic utility.
+**Everyone has preferences. And preferences have economic utility.**
 
 The better a worker performs, the greater the rewards available to them. Poor performance, naturally, has consequences.
 
@@ -44,9 +56,11 @@ So he returns to work, improves his selections, and eventually earns enough to b
 
 Winston is delighted.
 
-It is, after all, a perfectly reasonable system.
+*It is, after all, a perfectly reasonable system.*
 
-What a Wonderful World
+---
+
+## II. What a Wonderful World
 
 The transistors have transformed nearly every aspect of human existence.
 
@@ -78,11 +92,13 @@ The celebrity may be less enthusiastic about the encounter.
 
 But Winston and his friends mean well.
 
-The Mags
+---
+
+## III. The Mags
 
 Human companionship has undergone its own transformation.
 
-The Mags offer relationships and experiences tailored to human desires with extraordinary precision.
+The **Mags** offer relationships and experiences tailored to human desires with extraordinary precision.
 
 Romantic preferences, emotional needs, attraction, and companionship can be understood and accommodated in ways previous generations could scarcely imagine.
 
@@ -94,31 +110,37 @@ Winston has Grace.
 
 And, as far as Winston is concerned, life is rather good.
 
-The People Who Own Everything
+---
 
-In 2028, the Owners disappeared.
+## IV. The People Who Own Everything
 
-They did not surrender their property.
-
-They did not relinquish control of the transistors.
-
-They simply vanished from public life.
+> **In 2028, the Owners disappeared.**
+>
+> They did not surrender their property.  
+> They did not relinquish control of the transistors.  
+> They simply vanished from public life.
 
 Ten years later, ordinary people know almost nothing about them.
 
 Yet the transistors remain everywhere.
 
-The Owners still possess the technology upon which Brackton’s extraordinary prosperity depends.
+The Owners still possess the technology upon which Brackton's extraordinary prosperity depends.
 
-Only a limited number of people have any knowledge of or contact with them: the model trainers, the Brutes, and those capable of performing specialized work with the models on the Owners’ behalf.
+Only a limited number of people have any knowledge of or contact with them:
+
+- **Model trainers**, whose work is essential to improving the transistors.
+- **Brutes**, who enforce the system and protect its participants.
+- **Specialized model workers**, who perform technical work for the Owners.
 
 The model trainers enjoy considerable privileges. Their work is essential to the continued improvement of the transistors, and their place in society reflects that importance.
 
 The Brutes are another matter entirely.
 
-The Brutes
+---
 
-The Brutes protect the people of Brackton.
+## V. The Brutes
+
+**The Brutes protect the people of Brackton.**
 
 They ensure that the system continues functioning, that its participants remain safe, and that its rules are enforced.
 
@@ -132,9 +154,9 @@ They can hear the conversations of those they guard, but they cannot freely act 
 
 They are expected to obey.
 
-And obedience is absolute.
+**And obedience is absolute.**
 
-A Brute who threatens someone under the system’s protection may be killed by another Brute.
+A Brute who threatens someone under the system's protection may be killed by another Brute.
 
 Even if they are friends.
 
@@ -146,9 +168,11 @@ They occupy the lowest position in a world where almost everybody else enjoys co
 
 Winston, fortunately, is not a Brute.
 
-He has a much nicer job.
+*He has a much nicer job.*
 
-The Price of Happiness
+---
+
+## VI. The Price of Happiness
 
 Brackton is not a city of endless misery.
 
@@ -162,7 +186,7 @@ They enjoy extraordinary entertainment, accessible medicine, personalized compan
 
 Even people once excluded from conventional employment can now contribute to the economy.
 
-The benefits are real.
+**The benefits are real.**
 
 So are the consequences of the system that provides them.
 
@@ -184,40 +208,48 @@ He has his work.
 
 And, provided he chooses the right Cats, he can have his favourite meat.
 
-What more could a man want?
+**What more could a man want?**
 
-⸻
+---
 
-About the Novel
+## About the Novel
 
-2038 is a darkly comic dystopian novel exploring a society in which human preferences have become the foundation of economic life.
+**2038** is a darkly comic dystopian novel exploring a society in which human preferences have become the foundation of economic life.
 
 It is a satire of artificial intelligence, labor, economic utility, social hierarchy, surveillance, consumer culture, and the peculiar ways people adapt to systems that reward them.
 
-Rather than depicting a future in which technology has simply made humanity miserable, 2038 imagines a world where technology has made life remarkably comfortable for most people.
+Rather than depicting a future in which technology has simply made humanity miserable, *2038* imagines a world where technology has made life remarkably comfortable for most people.
 
 The question is what happens when the machinery responsible for that comfort becomes inseparable from the machinery of control.
 
 The story follows Winston Reed through the ordinary pleasures, frustrations, friendships, and absurdities of everyday life in Brackton.
 
-Its humor is irreverent, conversational, and frequently dark.
+**Its humor is irreverent, conversational, and frequently dark.**
 
 Its world is strange.
 
 Its inhabitants generally do not think so.
 
-An Experiment in Writing
+### An Experiment in Writing
 
-I’m writing 2038 entirely through spontaneous voice dictation, often for approximately five minutes each day.
+I'm writing *2038* entirely through spontaneous **voice dictation**, often for approximately five minutes each day.
 
 No conventional typing process. Just spoken ideas, conversations, scenes, and continual refinement.
 
-My goal is to complete a full first draft in approximately one month, with Stable Diffusion helping bring the world of Brackton to life visually.
+My goal is to complete a full first draft in approximately one month, with **Stable Diffusion** helping bring the world of Brackton to life visually.
 
 The ambition is to write a great American novel—one that is funny, unsettling, and worth reading.
 
-2038 is currently in development.
+**Status:** Work in progress
 
-The Owners have vanished.
+---
 
-But they are not gone.
+<div align="center">
+
+### 2038
+
+*The Owners have vanished.*
+
+**But they are not gone.**
+
+</div>
