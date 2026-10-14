@@ -1,4 +1,3 @@
-# 2038
 2038
 
 A darkly comic dystopian novel set in Brackton.
@@ -9,7 +8,7 @@ Premise
 
 In 2038, life in the fictional British industrial city of Brackton is, for most people, surprisingly good. A ubiquitous technology called the transistor generates and continually improves entertainment, services, and much of daily life. It depends on a relentless supply of human preference judgments and other training tasks. Almost everyone has work, often work that sounds ludicrous by older standards. Medicine is becoming free, personalized systems improve people’s lives, and once-prestigious professions and celebrities have lost their former status.
 
-But the system is not free. Its owners disappeared from public view in 2028, while retaining control of the world’s electricity and the transistors. An elaborate social hierarchy allocates comfort, rewards, and punishment. At the bottom are the Brutes, who protect everyone else while living under continuous surveillance and may be forced to kill their own friends to enforce the system.
+But the system is not free. Its owners disappeared from public view in 2028, while retaining ownership and control of the transistors. An elaborate social hierarchy allocates comfort, rewards, and punishment. At the bottom are the Brutes, who protect everyone else while living under continuous surveillance and may be forced to kill their own friends to enforce the system.
 
 The story follows Winston Reed through the everyday absurdities of this world. The novel’s humor comes from treating the extraordinary as routine: Winston is more immediately upset about not being able to buy his favorite meat than about the machinery of power around him.
 
@@ -54,16 +53,16 @@ Earlier story discussions establish Cats as part of the human preference-evaluat
 
 People gain utility and rewards when the Cats are preferred or used effectively for model improvement. Suboptimal performance brings penalties or loss of access to desirable goods. Cats are important enough to the social order that Brutes must protect them.
 
-The hidden Owners and electricity
+The hidden Owners and the transistors
 
-The people who own the transistors vanished from public life around 2028, but they did not relinquish control. They still own the transistors and control the world’s electrical infrastructure. The exact mechanics of their disappearance and their current operations remain open story questions.
+The Owners—the Elite who own the transistors—vanished from public life around 2028, but they did not relinquish control. They still own and control the transistors. The exact mechanics of their disappearance and their current operations remain open story questions.
 
 Social hierarchy
 
 |Group                                       |Position and treatment                                                                                                                                       |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|**Owners**                                  |Hidden from public view since 2028; retain control of transistors and global electricity.                                                                    |
-|**Elite**                                   |Friends of the Owners; converse only with Brutes and model trainers. Their precise material rank relative to other privileged groups remains to be specified.|
+|**Owners / owning Elite**                   |Hidden from public view since 2028; retain ownership and control of the transistors.                                                                         |
+|**Elite associates**                        |Friends of the Owners; converse only with Brutes and model trainers. Their precise material rank relative to other privileged groups remains to be specified.|
 |**Model trainers / transistor task workers**|Among the best off—described as the **second-best-off** group. They enjoy considerable luxuries and have little material reason to complain.                 |
 |**Cat workers**                             |Comfortable but receive slightly fewer luxuries than model trainers. The precise distinction from other feedback workers can be clarified.                   |
 |**Brutes**                                  |**Worst off by far.** They protect transistor users and society while constantly surveilled and coerced.                                                     |
