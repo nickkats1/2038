@@ -1,120 +1,223 @@
 2038
 
-A darkly comic dystopian novel set in Brackton.
+The Owners vanished ten years ago. The transistors never stopped working.
 
-> **Status:** Living story outline / README. This documents ideas established in conversation, not a finished manuscript or fixed ending.
+Welcome to Brackton.
 
-Premise
+It is 2038, and life has never been better.
 
-In 2038, life in the fictional British industrial city of Brackton is, for most people, surprisingly good. A ubiquitous technology called the transistor generates and continually improves entertainment, services, and much of daily life. It depends on a relentless supply of human preference judgments and other training tasks. Almost everyone has work, often work that sounds ludicrous by older standards. Medicine is becoming free, personalized systems improve people’s lives, and once-prestigious professions and celebrities have lost their former status.
+The telly knows exactly what you want to watch. Music is made for you. Medicine is becoming free. Almost everybody has a job, and even those once considered unemployable can now earn a respectable living.
 
-But the system is not free. Its owners disappeared from public view in 2028, while retaining ownership and control of the transistors. An elaborate social hierarchy allocates comfort, rewards, and punishment. At the bottom are the Brutes, who protect everyone else while living under continuous surveillance and may be forced to kill their own friends to enforce the system.
+Humanity has finally found a way to make nearly everyone useful.
 
-The story follows Winston Reed through the everyday absurdities of this world. The novel’s humor comes from treating the extraordinary as routine: Winston is more immediately upset about not being able to buy his favorite meat than about the machinery of power around him.
+Winston Reed is quite pleased with the arrangement.
 
-Tone and approach
+He has his mates, his football, his comforts, and Grace. There is very little about the modern world that troubles him.
 
-• British, working-class, conversational, profane, absurdist dark comedy.
-• Not a simple story in which AI makes everyone unemployed or miserable: the improvements to ordinary life are real, as is the cruelty beneath them.
-• Satire of status, labor, economic utility, preferences, surveillance, and the bargains people make for comfort.
-• Let readers learn how the world works through scenes, jokes, transactions, and dialogue rather than long explanations.
-• Preserve the author’s spontaneous comic voice. The author’s creative decisions govern the story.
+Except, perhaps, the occasional difficulty obtaining his favourite meat.
 
-Setting: Brackton
+A Good Day’s Work
 
-Brackton is a fictional English industrial city, not Liverpool. Its exact geography, neighborhoods, and history remain to be developed. The world is set primarily in 2038, a decade after the transistor owners’ disappearance from public view.
+In Brackton, much of the population earns its living picking Cats.
 
-Main character and recurring figures
+A Cat is a prompt, a choice presented to a worker whose preferences help train the transistors.
 
-• Winston Reed: Central character. An ordinary participant in the transistor economy; earlier notes place him in football-related preference evaluation. His comic concerns and reactions provide the reader’s entry into Brackton.
-• Winston’s roommate: Loves anime; has a job selecting which waifu he prefers.
-• Grace: Previously established as Winston’s Mag. Her precise role and the sleep/time motif need further development.
-• Jeffrey: A previously mentioned figure whose role in the sustained plot is not yet established.
-• Winston’s lads: Friends who accompany him in encounters such as spotting impoverished former celebrities and taking selfies with them.
+The transistors are responsible for much of modern life. They produce entertainment, improve services, develop medicine, and continually learn what people want.
 
-How the world works
+But they need people to tell them what is preferable.
 
-Transistors and ongoing human feedback
+An anime enthusiast might spend his afternoon choosing which waifu he finds more attractive. A Batman fan might compare two versions of his favourite character. An accountant might sit beside them, making entirely different selections.
 
-Transistors generate and update media and services: music, films, television, and increasingly medicine and other parts of daily life. They require continuous new data. Humans supply preference rankings, comparisons, scoring, and other tasks. Their choices help improve what everyone receives.
+Football supporters, wrestling enthusiasts, mathematicians, and people who spend their days watching the telly all have something valuable to contribute.
 
-Examples of employment:
+Everyone has preferences.
 
-• Choosing between anime characters / waifus.
-• Comparing wrestlers or things seen on the telly.
-• Evaluating football-related content (Winston’s previously described work).
-• Training, scoring, and other feedback tasks in medical, legal, entertainment, and additional domains.
+And preferences have economic utility.
 
-Even people formerly excluded from ordinary employment, including heroin addicts, can contribute. In the story, the improving system also helps some people stop using heroin.
+The better a worker performs, the greater the rewards available to them. Poor performance, naturally, has consequences.
 
-Cats and Mags
+Winston discovers this when he visits a shop and learns that his recent work has not earned him sufficient utility to purchase his favourite meat.
 
-Earlier story discussions establish Cats as part of the human preference-evaluation / work system and Mags as an important part of the transistor world; Grace is Winston’s Mag. The exact technical and social definitions should be refined as the manuscript develops, rather than assumed here.
+He is understandably disappointed.
 
-People gain utility and rewards when the Cats are preferred or used effectively for model improvement. Suboptimal performance brings penalties or loss of access to desirable goods. Cats are important enough to the social order that Brutes must protect them.
+So he returns to work, improves his selections, and eventually earns enough to buy it.
 
-The hidden Owners and the transistors
+Winston is delighted.
 
-The Owners—the Elite who own the transistors—vanished from public life around 2028, but they did not relinquish control. They still own and control the transistors. The exact mechanics of their disappearance and their current operations remain open story questions.
+It is, after all, a perfectly reasonable system.
 
-Social hierarchy
+What a Wonderful World
 
-|Group                                       |Position and treatment                                                                                                                                       |
-|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|**Owners / owning Elite**                   |Hidden from public view since 2028; retain ownership and control of the transistors.                                                                         |
-|**Elite associates**                        |Friends of the Owners; converse only with Brutes and model trainers. Their precise material rank relative to other privileged groups remains to be specified.|
-|**Model trainers / transistor task workers**|Among the best off—described as the **second-best-off** group. They enjoy considerable luxuries and have little material reason to complain.                 |
-|**Cat workers**                             |Comfortable but receive slightly fewer luxuries than model trainers. The precise distinction from other feedback workers can be clarified.                   |
-|**Brutes**                                  |**Worst off by far.** They protect transistor users and society while constantly surveilled and coerced.                                                     |
+The transistors have transformed nearly every aspect of human existence.
 
-The Brutes’ tragedy
+Films, television programmes, music, and entertainment are generated according to individual preferences. Medicine grows more effective and accessible. Services once reserved for the wealthy are becoming ordinary conveniences.
 
-Brutes protect the people with transistors. They can hear those people’s conversations but cannot act freely on what they hear. They themselves are always watched. If a Brute threatens a Cat or anyone else in society, other Brutes are required to kill that person—even when the target is their friend. The class charged with protecting everyone is afforded the least protection itself.
+The old distinctions between respectable professions and ridiculous occupations have begun to disappear.
 
-Established comic situations and scenes
+A doctor may have spent decades learning to perform an operation, but the transistor can increasingly provide the same service for almost nothing.
 
-Winston just wants his meat
+Winston finds this rather amusing.
 
-Winston goes to buy food but cannot obtain his favorite meat because his performance in pleasing / optimizing the Cat is insufficient. He works harder to please the Cat, earns access to the meat, and becomes happy again. This is an everyday joke and a concrete demonstration of how the reward system conditions behavior.
+Doctors used to charge an arm and a leg for surgery. Now, he can joke about it.
 
-A professional anime enthusiast
+Celebrities have suffered a similar decline in importance.
 
-Winston’s roommate is employed to pick whichever anime waifu he likes more. His tastes are useful training data, and his job supports the transistor economy.
+Actors, musicians, and other once-famous individuals occasionally appear on the streets of Brackton, having lost the extraordinary status they enjoyed before the transistors.
 
-Celebrities on the street
+Winston and his lads sometimes recognize them.
 
-Actors, rappers, and other former celebrities complain about losing wealth and careers as generated music, films, and television displace them. Some are described as having been ‘vanished’—the exact meaning and mechanism need clarification. Winston and the lads encounter recognizable, now-thin and bearded former celebrities, take selfies, and say things like: ‘Hey, I used to see you on the telly. You have a beard now and look quite thin.’ Their attitude is casually delighted rather than reverential.
+One afternoon, they might encounter a former television star who has grown a beard and become noticeably thin.
 
-The doctor’s arm and leg
+They are delighted.
 
-Doctors and lawyers are among the professional groups whose old advantages have been undermined. Winston jokes to a doctor about charging an arm and a leg for heart surgery. As transistor technology and Mags improve, medical care becomes free.
+They remember seeing him on the telly.
 
-People once excluded from work
+Naturally, they ask for a photograph.
 
-Even heroin addicts can be paid for preference tasks. The feedback system becomes so capable of adapting media and services to users that it can also help people recover from addiction. This is intended as a feature of the fictional world, not a real-world medical claim.
+The celebrity may be less enthusiastic about the encounter.
 
-The central contradiction
+But Winston and his friends mean well.
 
-The system makes much of society more prosperous and materially secure, yet it is built around invisible owners, pervasive measurement, coercive incentives, and the severe oppression of the Brutes. Many beneficiaries have little reason to question it. Winston’s ordinary pleasures and petty frustrations are the comic lens through which the reader encounters that contradiction.
+The Mags
 
-Plot: established versus unresolved
+Human companionship has undergone its own transformation.
 
-Established: Winston Reed lives in Brackton in 2038; the transistor economy and its class system shape his daily life; the Owners vanished from view in 2028 without surrendering power; Cats, Mags, model trainers, and Brutes structure the world; the above comic situations are potential scenes.
+The Mags offer relationships and experiences tailored to human desires with extraordinary precision.
 
-Still to develop: Winston’s sustained personal conflict, the precise relationships among Winston, Grace, Jeffrey, the Brutes and the Owners, what ‘vanishing’ entails, the larger sequence of events, climax, and ending. Earlier discussion also explored an absurd, anticlimactic murder-related comic premise, but its precise scene and role need to be recovered before fixing it in the outline.
+Romantic preferences, emotional needs, attraction, and companionship can be understood and accommodated in ways previous generations could scarcely imagine.
 
-Writing workflow
+For many people, the absence of a traditional lover is no longer especially troubling.
 
-Develop scenes through spontaneous voice dictation and conversation. Organize and edit them into a persistent Markdown manuscript and story bible while keeping the author’s comic voice and control over major decisions. The working goal is a fast first draft, alongside job-search responsibilities; publication depends on completing and revising the book.
+Why spend years searching for someone who understands you when the transistors can understand your preferences so completely?
 
-Suggested project files:
+Winston has Grace.
 
-2038/
-├── README.md                 # This living master outline
-├── 2038.md                   # Manuscript
-├── 2038-story-bible.md       # Detailed worldbuilding and continuity
-└── 2038-scenes.md            # Scene ideas and fragments
+And, as far as Winston is concerned, life is rather good.
 
-────────
+The People Who Own Everything
 
-Last consolidated: October 13, 2026. Update this README as canon develops; do not silently turn open questions into established facts.
+In 2028, the Owners disappeared.
+
+They did not surrender their property.
+
+They did not relinquish control of the transistors.
+
+They simply vanished from public life.
+
+Ten years later, ordinary people know almost nothing about them.
+
+Yet the transistors remain everywhere.
+
+The Owners still possess the technology upon which Brackton’s extraordinary prosperity depends.
+
+Only a limited number of people have any knowledge of or contact with them: the model trainers, the Brutes, and those capable of performing specialized work with the models on the Owners’ behalf.
+
+The model trainers enjoy considerable privileges. Their work is essential to the continued improvement of the transistors, and their place in society reflects that importance.
+
+The Brutes are another matter entirely.
+
+The Brutes
+
+The Brutes protect the people of Brackton.
+
+They ensure that the system continues functioning, that its participants remain safe, and that its rules are enforced.
+
+Their responsibilities are considerable.
+
+Their privileges are not.
+
+Unlike the ordinary citizens whose lives they protect, the Brutes exist under relentless surveillance.
+
+They can hear the conversations of those they guard, but they cannot freely act upon what they hear.
+
+They are expected to obey.
+
+And obedience is absolute.
+
+A Brute who threatens someone under the system’s protection may be killed by another Brute.
+
+Even if they are friends.
+
+Even if they have known each other their entire lives.
+
+The people responsible for protecting society are themselves afforded the least protection.
+
+They occupy the lowest position in a world where almost everybody else enjoys comforts unimaginable only a generation earlier.
+
+Winston, fortunately, is not a Brute.
+
+He has a much nicer job.
+
+The Price of Happiness
+
+Brackton is not a city of endless misery.
+
+Its citizens are not uniformly starving, frightened, or desperate.
+
+Quite the opposite.
+
+For most people, the world has genuinely improved.
+
+They enjoy extraordinary entertainment, accessible medicine, personalized companionship, and opportunities that did not previously exist.
+
+Even people once excluded from conventional employment can now contribute to the economy.
+
+The benefits are real.
+
+So are the consequences of the system that provides them.
+
+Every preference can be measured. Every judgment can be evaluated. Every reward can be adjusted.
+
+The Owners remain invisible.
+
+The Brutes remain obedient.
+
+The transistors continue improving.
+
+And Winston Reed, like so many others, has very little reason to question the arrangement.
+
+He has his friends.
+
+He has Grace.
+
+He has his work.
+
+And, provided he chooses the right Cats, he can have his favourite meat.
+
+What more could a man want?
+
+⸻
+
+About the Novel
+
+2038 is a darkly comic dystopian novel exploring a society in which human preferences have become the foundation of economic life.
+
+It is a satire of artificial intelligence, labor, economic utility, social hierarchy, surveillance, consumer culture, and the peculiar ways people adapt to systems that reward them.
+
+Rather than depicting a future in which technology has simply made humanity miserable, 2038 imagines a world where technology has made life remarkably comfortable for most people.
+
+The question is what happens when the machinery responsible for that comfort becomes inseparable from the machinery of control.
+
+The story follows Winston Reed through the ordinary pleasures, frustrations, friendships, and absurdities of everyday life in Brackton.
+
+Its humor is irreverent, conversational, and frequently dark.
+
+Its world is strange.
+
+Its inhabitants generally do not think so.
+
+An Experiment in Writing
+
+I’m writing 2038 entirely through spontaneous voice dictation, often for approximately five minutes each day.
+
+No conventional typing process. Just spoken ideas, conversations, scenes, and continual refinement.
+
+My goal is to complete a full first draft in approximately one month, with Stable Diffusion helping bring the world of Brackton to life visually.
+
+The ambition is to write a great American novel—one that is funny, unsettling, and worth reading.
+
+2038 is currently in development.
+
+The Owners have vanished.
+
+But they are not gone.
