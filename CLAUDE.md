@@ -2,6 +2,11 @@
 
 This explains the story.
 
+## Note
+
+This is not my final claude.md. I did not add the finish to my main markdown file. I did not add what a wrote for the other characters.
+
+
 ## RULES:
 1. NEVER COMMIT
 2. DO NOT CHANGE THIS AT ALL. IT IS THE WAY THE STORY DRAWS FROM TO WRITE IT.
